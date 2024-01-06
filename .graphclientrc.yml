@@ -1,0 +1,9 @@
+sources:
+  - name: ENS
+    handler:
+      graphql:
+        endpoint: https://gateway.thegraph.com/api/93f66073ec50503392003ba39c5ba910/subgraphs/id/EjtE3sBkYYAwr45BASiFp8cSZEvd1VHTzzYFvJwQUuJx
+  - name: uniswapv3
+    handler:
+      graphql:
+        endpoint: https://gateway.thegraph.com/api/93f66073ec50503392003ba39c5ba910/subgraphs/id/ELUcwgpm14LKPLrBRuVvPvNKHQ9HvwmtKgKSH6123cr7

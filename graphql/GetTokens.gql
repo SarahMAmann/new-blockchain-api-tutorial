@@ -1,0 +1,15 @@
+{
+  tokens(first: 5) {
+    id
+    name
+    symbol
+    decimals
+  }
+  rewardTokens(first: 5) {
+    id
+    token {
+      id
+    }
+    type
+  }
+}
